@@ -1,10 +1,13 @@
                                   TUNE_IN  - A Musical Website
  
 Introduction:
-     An online shopping portal named “Tune In”. This portal is a place to hear your favorite songs as well as to shop for various music related products such as Albums, Electronics and Merchandise.
+
+    An online shopping portal named “Tune In”. This portal is a place to hear your favorite songs as well as to shop for various music related products such as Albums, Electronics and Merchandise.
      
 Contents:
+
 The portal contains the following pages:
+
 •	Sign up
 
 •	Login
@@ -25,4 +28,5 @@ The portal contains the following pages:
     ii)	Billing
     iii)	Feedback
 
-Languages used : HTML ,PHP, SQL
+Languages used :
+   • HTML ,PHP, SQL
