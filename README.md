@@ -6,7 +6,9 @@ Introduction:
 Contents:
 The portal contains the following pages:
 •	Sign up
+
 •	Login
+
 •	Home page
     i)	About us
     ii)	Albums        --> (Songs)
@@ -14,10 +16,13 @@ The portal contains the following pages:
     iv)	Merchandise   --> (Shop)
     v)	Admin panel
     vi)	Feedback form
+    
 •	Billing page
     i)	Pdf generation
+    
 •	Database
     i)	Sign in
     ii)	Billing
     iii)	Feedback
 
+Languages used : HTML ,PHP, SQL
