@@ -13,19 +13,29 @@ The portal contains the following pages:
 •	Login
 
 •	Home page
+
     i)	About us
+    
     ii)	Albums        --> (Songs)
+    
     iii)	Electronics
+    
     iv)	Merchandise   --> (Shop)
+    
     v)	Admin panel
+    
     vi)	Feedback form
     
 •	Billing page
+
     i)	Pdf generation
     
 •	Database
+
     i)	Sign in
+    
     ii)	Billing
+    
     iii)	Feedback
 
 Languages used :
