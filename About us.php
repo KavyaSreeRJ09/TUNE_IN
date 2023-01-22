@@ -9,7 +9,7 @@
 	<h1 align="center " style="font-family:verdana;" style="font-size:300%;">TUNE IN</h1>
     <h3 style="text-align:center;"> Connect to music through different means !</h3>
 	<hr><br>
-	</div>
+</div>
 	
 <h2 style="text-align:center;"> ABOUT US</h2>
 
