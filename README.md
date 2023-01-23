@@ -1,4 +1,4 @@
-                                  TUNE_IN  - A Musical Website
+                                  TUNE IN  - A MUSICAL WEBSITE
  
 Introduction:
 
