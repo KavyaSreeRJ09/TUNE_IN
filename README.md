@@ -2,7 +2,7 @@
  
 # Introduction:
 
-    An online shopping portal named “Tune In”. This portal is a place to hear your favorite songs as well as to shop for various music related products such as Albums, Electronics and Merchandise.
+An online shopping portal named “Tune In”. This portal is a place to hear your favorite songs as well as to shop for various music related products such as Albums, Electronics and Merchandise.
      
 # Contents:
 
