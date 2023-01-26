@@ -59,6 +59,9 @@ The portal contains the following pages:
 
 ![image](https://user-images.githubusercontent.com/117114012/214921662-2512c953-6554-46e5-ac80-a6ed867f6ed3.png)
 
+![image](https://user-images.githubusercontent.com/117114012/214923390-d8060c53-5776-4e6c-a835-7609dfe59184.png)
+
+
 ![image](https://user-images.githubusercontent.com/117114012/214921794-0217597f-9165-491b-8c38-17a6823fc2dc.png)
 
 ![image](https://user-images.githubusercontent.com/117114012/214921885-44bf655e-b598-4ae1-9031-c8277b1b55b4.png)
@@ -68,6 +71,12 @@ The portal contains the following pages:
 ![image](https://user-images.githubusercontent.com/117114012/214921951-f3788fa9-4719-4cfd-b632-0011aeba61c7.png)
 
 ![image](https://user-images.githubusercontent.com/117114012/214922019-1f23e78d-1d4a-4e3a-8cca-a7802ff34785.png)
+
+![image](https://user-images.githubusercontent.com/117114012/214923248-3f532038-c357-4e9c-8f5b-026f9851b778.png)
+![image](https://user-images.githubusercontent.com/117114012/214923273-a03a9966-6003-4580-9ce4-c2d7a9c150db.png)
+
+![image](https://user-images.githubusercontent.com/117114012/214923080-d5b83d28-2b55-4ff4-a829-c4a24972e239.png)
+
 
 # DATABASE:
 ![image](https://user-images.githubusercontent.com/117114012/214922140-1ba70544-8fd3-4edb-8b82-f6dce3e6f934.png)
