@@ -3,11 +3,7 @@
   <html>
   <head>
   <title>Sign up</title>
-  <style>
-	body{
-	  background-repeat: no-repeat;
-	  }
-	</style>
+ 
   </head>
 
 	<body bgcolor="salmon" >
