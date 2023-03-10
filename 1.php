@@ -5,8 +5,6 @@
   <title>Sign up</title>
   <style>
 	body{
-
-	  background-image: url('');
 	  background-repeat: no-repeat;
 	  }
 	</style>
